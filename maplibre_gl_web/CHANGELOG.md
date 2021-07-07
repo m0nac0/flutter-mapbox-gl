@@ -1,3 +1,13 @@
+## 0.12.0, April 12, 2020
+* Dependencies: updated image package [#598](https://github.com/tobrun/flutter-mapbox-gl/pull/598)
+* Fix feature manager on release build [#593](https://github.com/tobrun/flutter-mapbox-gl/pull/593)
+* Emit onTap only for the feature above the others [#589](https://github.com/tobrun/flutter-mapbox-gl/pull/589)
+* Add annotationOrder to web [#588](https://github.com/tobrun/flutter-mapbox-gl/pull/588)
+
+## 0.11.0, March 30, 2020
+* Fix Mapbox GL JS CSS embedding on web [#551](https://github.com/tobrun/flutter-mapbox-gl/pull/551)
+* Add batch mode of screen locations [#554](https://github.com/tobrun/flutter-mapbox-gl/pull/554)
+
 ## 0.10.0, February 12, 2020
 * Added web support for fills [#501](https://github.com/tobrun/flutter-mapbox-gl/pull/501)
 * Add heading to UserLocation and expose UserLocation type [#522](https://github.com/tobrun/flutter-mapbox-gl/pull/522)
